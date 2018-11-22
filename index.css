@@ -1,0 +1,304 @@
+body {
+  background-color: rgba(255, 255, 255, 0.62);
+  font: 400 1em/1.38 Oxygen;
+  color: rgb(255, 255, 255);
+}
+
+.container {
+  float: left;
+}
+
+.element {
+  float: left;
+}
+
+.text {
+  float: left;
+  color: rgb(255, 255, 255);
+}
+
+.text-11 p,
+.text-13 p,
+.text-15 p,
+.text-17 p {
+  margin-bottom: 1em;
+}
+
+.container-1 {
+  width: 100%;
+  height: 1677px;
+  margin-top: 5px;
+}
+
+.container-10 {
+  position: relative;
+  z-index: 29;
+  width: 31.4444444444%;
+  height: 426px;
+  margin: 23px 0 0 28.6666666666%;
+}
+
+.container-11 {
+  clear: both;
+  width: 100%;
+  height: 83px;
+  background-color: rgba(0, 0, 0, 0.11);
+}
+
+.container-2 {
+  width: 100%;
+  height: 140px;
+  margin-top: -5px;
+  background-color: rgba(0, 0, 0, 0.06);
+}
+
+.container-3 {
+  clear: both;
+  width: 100%;
+  height: 1459px;
+}
+
+.container-4 {
+  width: 100%;
+  height: 85px;
+  margin-top: 1px;
+}
+
+.container-5 {
+  clear: both;
+  width: 100%;
+  height: 296px;
+}
+
+.container-6 {
+  clear: both;
+  width: 100%;
+  height: 1052px;
+}
+
+.container-7 {
+  position: relative;
+  clear: both;
+  z-index: 17;
+  width: 31.4444444444%;
+  height: 426px;
+  margin-left: 3.7777777777%;
+}
+
+.container-8 {
+  position: relative;
+  z-index: 21;
+  width: 31.4444444444%;
+  height: 426px;
+  margin-left: 28.6666666666%;
+}
+
+.container-9 {
+  position: relative;
+  clear: both;
+  z-index: 25;
+  width: 31.4444444444%;
+  height: 426px;
+  margin: 23px 0 0 3.7777777777%;
+}
+
+.element-1 {
+  position: relative;
+  clear: both;
+  z-index: 8;
+  width: 28%;
+  height: 247px;
+  margin-left: 3.10938%;
+  background: url('../images/IMG-20181018-WA0092.jpg') rgb(222, 222, 222);
+  background-size: auto auto;
+  background-position: center center;
+}
+
+.element-2 {
+  position: relative;
+  z-index: 9;
+  width: 27.5555555555%;
+  height: 247px;
+  margin: -247px 0 0 70.66146%;
+  background: url('../images/Screenshot_2018-11-22-20-06-39-091_com.miui.gallery.png') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: 90% 50%;
+}
+
+.element-3 {
+  width: 100%;
+  height: 257px;
+  border: 1px solid rgb(0, 0, 0);
+  background: url('../images/borost.jpg') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: 293px 200px;
+  background-position: center center;
+}
+
+.element-4 {
+  width: 100%;
+  height: 257px;
+  background: url('../images/3c2eb_0_ee345_704a1ec5_orig.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-5 {
+  width: 100%;
+  height: 257px;
+  border: 1px solid rgb(0, 0, 0);
+  background: url('../images/iDLKJIFH0.jpg'), url('../images/borost.jpg') rgb(255, 255, 255);
+  background-repeat: repeat, no-repeat;
+  background-size: cover, 293px 200px;
+  background-position: center top, center center;
+  background-attachment: scroll, scroll;
+}
+
+.element-6 {
+  width: 100%;
+  height: 257px;
+  border: 1px solid rgb(0, 0, 0);
+  background: url('../images/iINW28MT3.jpg'), url('../images/borost.jpg') rgb(255, 255, 255);
+  background-repeat: repeat, no-repeat;
+  background-size: cover, 293px 200px;
+  background-position: left top, center center;
+  background-attachment: scroll, scroll;
+}
+
+.text-1 {
+  position: relative;
+  z-index: 0;
+  margin: 12px 0 0 1.22049%;
+  font-size: 3.125em;
+  font-weight: 700;
+}
+
+.text-10,
+.text-12,
+.text-14,
+.text-16 {
+  clear: both;
+  width: 283px;
+  min-height: 42px;
+  border: 1px solid rgb(0, 0, 0);
+  font-size: 1.5em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.text-11,
+.text-13,
+.text-15,
+.text-17 {
+  clear: both;
+  width: 283px;
+  min-height: 127px;
+  border: 1px solid rgb(0, 0, 0);
+  font-size: 1em;
+  text-align: center;
+}
+
+.text-18 {
+  width: 443px;
+  min-height: 41px;
+  margin-top: 22px;
+  font-size: 1.938em;
+  font-weight: 700;
+}
+
+.text-2 {
+  position: relative;
+  clear: both;
+  z-index: 1;
+  width: 540px;
+  min-width: 540px;
+  max-width: 539px;
+  min-height: 47px;
+  margin-left: 1.2204861111%;
+  padding: 4px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 36px;
+  font-size: 1.563em;
+  text-align: center;
+}
+
+.text-3 {
+  width: 235px;
+  min-width: 235px;
+  max-width: 234px;
+  min-height: 69px;
+  margin: -22px 0 0 10.109375%;
+  padding: 20px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 36px;
+  font-size: 1.063em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.text-4 {
+  width: 237px;
+  min-width: 236px;
+  max-width: 235px;
+  min-height: 29px;
+  margin-top: 1px;
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+.text-5 {
+  clear: both;
+  width: 900px;
+  min-height: 51px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 1px;
+  font-size: 1.438em;
+}
+
+.text-6 {
+  width: 900px;
+  min-height: 48px;
+  margin-top: 1px;
+  border: 1px solid rgb(0, 0, 0);
+  font-size: 1.75em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.text-7 {
+  position: relative;
+  z-index: 10;
+  width: 324px;
+  min-height: 54px;
+  margin-left: 2.22049%;
+  padding-top: 10px;
+  border: 1px solid rgb(0, 0, 0);
+  font-size: 1.563em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.text-8 {
+  position: relative;
+  clear: both;
+  z-index: 11;
+  width: 324px;
+  min-height: 55px;
+  margin: -82px 0 0 33.3316%;
+  padding-top: 10px;
+  border: 1px solid rgb(0, 0, 0);
+  font-size: 1.563em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.text-9 {
+  width: 900px;
+  min-height: 70px;
+  margin-top: 3px;
+  padding-top: 11px;
+  border: 1px solid rgb(0, 0, 0);
+  font-size: 2.125em;
+  font-weight: 700;
+  text-align: center;
+}
